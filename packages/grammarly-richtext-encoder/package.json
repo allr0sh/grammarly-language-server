@@ -24,7 +24,7 @@
     "dist"
   ],
   "dependencies": {
-    "web-tree-sitter": "^0.20.8"
+    "web-tree-sitter": "^0.24.3"
   },
   "devDependencies": {
     "@grammarly/sdk": "^2.3.17",
